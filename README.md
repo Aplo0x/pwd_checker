@@ -14,7 +14,7 @@ This is a simple password checker program implemented in Python and Jupyter Note
 #### Prerequisites:
 
 - Python 3.x
-## Instalação
+## Installation
 
 Clone the repository
 
@@ -46,6 +46,6 @@ Run the script:
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues or submit pull requests to suggest improvements, report bugs, or add new features.
-## Licença
+## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
